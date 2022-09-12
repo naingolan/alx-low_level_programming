@@ -1,4 +1,6 @@
-#include "holberton.h"
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
 
 /**
  * _islower - Shows 1 if the input is a
