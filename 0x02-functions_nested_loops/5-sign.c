@@ -1,4 +1,6 @@
-#include "holberton.h"
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
 
 /**
  * print_sign - Determines if the input number
