@@ -1,1 +1,1 @@
-0x09.C-Static librairies
+This project is mainly focus static libraries.
