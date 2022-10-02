@@ -1,1 +1,1 @@
-0x0A.C-argc, argv
+This project is mainly focus on arguments.
